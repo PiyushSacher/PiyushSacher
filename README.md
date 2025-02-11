@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Piyush Sacher</h1>
 <h3 align="center">Passionate Software Engineer | MERN Stack Developer | Data Structures And Algorithms | Problem Solver 🚀</h3>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 
 - 🔭 I’m currently working on [NeflixClone](https://github.com/PiyushSacher/NetflixClone.git)
-
 - 🌱 I’m currently learning **ReactJS**
-
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/PiyushSacher/)
-
 - 📫 How to reach me **piyushsacher18@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1w4-hXXwmXSAlJ9CBpbwDhthszNnL1isw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>

@@ -2,6 +2,7 @@
 <h3 align="center">Passionate Software Engineer | MERN Stack Developer | Data Structures And Algorithms | Problem Solver 🚀</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 
+- 🎓 Pursuing Bachelors of Engineering in Computer Science (BE CSE'26)
 - 🔭 I’m currently working on [NeflixClone](https://github.com/PiyushSacher/NetflixClone.git)
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/PiyushSacher/)
